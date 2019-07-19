@@ -42,8 +42,20 @@ public class Converter{
 		else if(choice==3){
 			Temperature.main(arg);
 		}
+		else if(choice==4){
+			Cooking.main(arg);
+		}
+		else if(choice==5){
+			Speed.main(arg);
+		}
 		else if(choice==6){
 			Currency.main(arg);
+		}
+		else if(choice==7){
+			Volume.main(arg);
+		}
+		else if(choice==8){
+			Area.main(arg);
 		}
 		else if(choice==9){
 			Mass.main(arg);
